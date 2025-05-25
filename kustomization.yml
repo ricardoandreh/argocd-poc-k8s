@@ -6,4 +6,4 @@ resources:
 images:
 - name: app
   newName: ricardoandreh/argocd-poc-app
-  newTag: 2969c935ca3ce6fa785e29f773374e901cc89734
+  newTag: a5b2505cb15f4cb95a1445cca05db6d1ef1b434e
